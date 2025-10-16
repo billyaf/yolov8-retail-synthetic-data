@@ -50,4 +50,4 @@ Buka notebook ini dan jalankan sel-selnya secara berurutan. Pastikan path datase
 
 Hasil utama menunjukkan bahwa suplementasi **data sintetis** memberikan peningkatan performa yang paling signifikan, meningkatkan mAP50-95 dari 68.1% (baseline) menjadi **68.9%**.
 
-![Kurva Pembelajaran](results/plots/comparison_map_vs_epoch.jpg)
+![Kurva Pembelajaran](results/plots/comparison_map_vs_epoch.png)
