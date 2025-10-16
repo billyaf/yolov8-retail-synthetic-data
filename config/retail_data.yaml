@@ -1,0 +1,33 @@
+train: /content/drive/MyDrive/object-detection/paper1/dataset/images/train
+val: /content/drive/MyDrive/object-detection/paper1/dataset/images/val
+test: /content/drive/MyDrive/object-detection/paper1/dataset/images/test
+nc: 28
+names:
+- gula batu
+- gula pasir 1/4kg
+- kecap bango 720g
+- kecap bango 77g
+- micin sasa 250g
+- micin sasa 30g
+- mie indomie aceh
+- mie indomie ayam bawang
+- mie indomie ayam geprek
+- mie indomie ayam spesial
+- mie indomie empal gentong
+- mie indomie goreng
+- mie sarimi ayam bawang
+- mie sarimi ayam kremes
+- mie sarimi iga sapi
+- mie sarimi kaldu ayam
+- mie sedaap goreng
+- mie sedaap soto
+- mie suksess isi 2 ayam kecap
+- pakan ayam 511
+- pakan ayan 511/h11
+- pakan burung perkutut
+- rokok onbold 12btg
+- rokok onbold 20btg
+- rokok satya
+- rokok sayapmas
+- sambal abc extra pedas botol 130ml
+- terigu 1/4kg

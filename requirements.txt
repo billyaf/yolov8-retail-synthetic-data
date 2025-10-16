@@ -1,0 +1,5 @@
+ultralytics
+pandas
+matplotlib seaborn
+torch torchvision
+numpy
